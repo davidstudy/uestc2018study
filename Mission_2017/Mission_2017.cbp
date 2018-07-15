@@ -42,6 +42,7 @@
 		<Unit filename="LuckyNumber.cpp" />
 		<Unit filename="MDnumber.cpp" />
 		<Unit filename="NetWalk.cpp" />
+		<Unit filename="SNumber.cpp" />
 		<Unit filename="YiWords.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>

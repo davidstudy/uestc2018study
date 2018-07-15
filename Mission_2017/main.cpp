@@ -19,6 +19,7 @@ extern void FindLuckyNumber();
 
 extern void  IsLikeWords();
 
+extern void SNumber();
 int main()
 {
   //  游戏标记
@@ -42,7 +43,9 @@ int main()
  //幸运数
  //  FindLuckyNumber();
 
-    IsLikeWords();
+ //   IsLikeWords();
+    int a=0;
+    SNumber();
     system("pause");
     return 0;
 }
